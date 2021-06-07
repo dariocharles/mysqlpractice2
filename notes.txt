@@ -1,8 +1,11 @@
-mysql
+show tables;
 show databases;
-(Should be there Chinook)
+use Chinook;
+SELECT * FROM Friends; - to see that it is empty
 
 
+CRUD - create (CREATE to create table) and (INSERT - to insert data) read (SELECT) update (UPDATE) delete (DELETE) 
 
-pip3 install pymysql
-python3 mysql-from-python.py
+
+Try and finally - need to create the table and run it. And then add data to it on a different time of running it?
+And then so everyime it adds again. 
