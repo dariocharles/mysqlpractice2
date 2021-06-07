@@ -1,0 +1,8 @@
+mysql
+show databases;
+(Should be there Chinook)
+
+
+
+pip3 install pymysql
+python3 mysql-from-python.py
