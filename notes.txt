@@ -1,3 +1,7 @@
+MongoDB Commands
+https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+DCP101+2017_T3/courseware/58bca0e827fc46bc862c5e2aeec97468/e10012a681fe42a79606c493075a58f0/?child=first
+
+
 show tables;
 show databases;
 use Chinook;
@@ -9,3 +13,9 @@ CRUD - create (CREATE to create table) and (INSERT - to insert data) read (SELEC
 
 Try and finally - need to create the table and run it. And then add data to it on a different time of running it?
 And then so everyime it adds again. 
+
+
+
+
+
+
